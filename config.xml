@@ -6,7 +6,7 @@
         A sample app from a phone  BLE hardware.
     </description>
     <author >
-         Lone Østerlund based on an example by Don Coleman: 
+         Lone Østerlund based on an example for and by Don Coleman: 
 		 https://github.com/don/cordova-plugin-ble-central 
     </author>
 
